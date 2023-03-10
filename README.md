@@ -1,4 +1,4 @@
-# Born2beRoot - VIRTUAL BOX
+# Born2beRoot - VM VIRTUAL BOX
 
 <p align="center"> This project aims to introduce you to the wonderful world of virtualization  </p>
 
